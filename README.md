@@ -1,2 +1,8 @@
 # Gomoku
-五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务
+# 介绍 :artificial_satellite:
+
+运行在linux上五子棋对战小游戏
+
+# 运行环境:computer:
+
+项目运行在linux系统上 
