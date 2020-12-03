@@ -1,5 +1,5 @@
 # Gomoku
-# 介绍 :artificial_satellite:
+# 介绍 :arrow_lower_right:
 
 运行在linux上五子棋对战小游戏
 
