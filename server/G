@@ -1,1 +1,0 @@
-gcc server.c ../common/checkWin.c ../common/my_socket.c
